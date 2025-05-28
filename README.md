@@ -23,11 +23,3 @@ Este exemplo cobre:
 - Integração com Azure Service Bus para transporte de mensagens
 
 ---
-
-## 🛠️ Como Executar Localmente
-
-### 1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/masstransit-azure-servicebus-exemplo.git
-cd masstransit-azure-servicebus-exemplo
